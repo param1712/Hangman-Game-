@@ -48,5 +48,3 @@ def hangman():
 
 
 hangman()
-
-print("Thanks")
